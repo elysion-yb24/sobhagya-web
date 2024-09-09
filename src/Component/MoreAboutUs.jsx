@@ -9,19 +9,12 @@ const MoreAboutUs = () => {
           About Us
         </h2>
         <p className="text-md text-primary mb-2 max-sm:text-xl">
-          Baatein is a unique voice-based social app that brings people together
-          and offers more than just connections. In addition to making friends
-          and chatting with interesting voices, you can also connect with
-          astrologers. Discover your kundali and get personalized horoscope
-          readings, all through the power of your voice.
-        </p>
-        <p className="text-md text-primary mb-2 max-sm:text-xl">
-          Join Baatein today and become part of a vibrant community of voice
-          enthusiasts. Connect with astrologers, make friends, and explore the
-          mysteries of your kundali and horoscope—all in one place, designed for
-          the Gen Z generation. It&apos;s the ultimate app for voice-based
-          social interactions and astrological insights.
-        </p>
+        Welcome to Sobhagya, your trusted astrology platform designed to provide personalized guidance and spiritual insights. At Sobhagya, we believe in the power of ancient wisdom to help navigate modern challenges. Our app connects you with experienced astrologers who can answer your questions, provide remedies, offer detailed horoscope readings, and guide you through the spiritual process of performing poojas.
+
+Whether you're seeking solutions to life’s uncertainties, insights into your kundali, or remedies for personal issues, Sobhagya makes it easy to consult with astrologers in real time. Through our voice-based platform, users can communicate directly with astrologers, ask their queries, and receive tailored guidance, all from the comfort of their homes.
+
+Join Sobhagya today and embark on your journey towards spiritual clarity, personal growth, and a deeper understanding of yourself and the universe
+</p>
       </div>
       <div className="rounded-xl bg-primary p-8 md:w-2/3">
         <Lottie
