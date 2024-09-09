@@ -381,9 +381,8 @@ const TermsofService = () => {
           <h3 className="text-sm mb-2">Disclaimers</h3>
           <p className="text-sm text-slate-500 mb-4">Sobhagya accept outbound calls </p>
           <p className="text-sm text-slate-500">
-            &#8226; Used in multiple domains to ease the onboarding process of Astrologers
-          </p>
-          <p className="text-sm text-slate-500">&#8226; For sales,marketing ,customer support purposes</p>
+            &#8226; 
+            Sobhagya accepts outbound calls for the purpose of facilitating communication between Astrologers and Users. These calls are intended to enhance the consultation experience, ensuring a seamless and direct connection between the parties.         </p>
           <p className="text-sm text-slate-500 mb-4">
            <br/> Sobhagya does not represent or warrant that:<br/>
           </p>
