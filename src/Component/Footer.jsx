@@ -28,8 +28,10 @@ export const Footer = () => {
               <div>
                 <p className="font-bold text-lg">OFFICE</p>
                 <p className="text-md">
-                  F-10/9, Mandir Marg, Block-F, Opp.- Lovely Public School,
-                  Krishna Nagar Delhi East Delhi DL 110051 IN.
+                  {/* F-10/9, Mandir Marg, Block-F, Opp.- Lovely Public School,
+                  Krishna Nagar Delhi East Delhi DL 110051 IN. */}
+                  55 GALI NO 9, PANCHSHEEL COLONY, GARH ROAD,
+NEAR NAI SADAK, Meerut, Meerut, Uttar Pradesh, 250002
                 </p>
               </div>
               <div className="mb-4">
@@ -39,7 +41,8 @@ export const Footer = () => {
               <div className="mb-8">
                 <p className="text-md max-sm:text-xl">Owned by-</p>
                 <p className="font-bold text-lg">
-                  Elysion Softwares Private Limited
+                 ELYSION SOFTWARES PRIVATE LIMITED.
+                <p className="font-normal text-sm">(© ELYSION SOFTWARES PRIVATE LIMITED.All Rights Reserved.)</p> 
                 </p>
               </div>
               <div className="flex flex-col text-lg gap-2 font-bold">
