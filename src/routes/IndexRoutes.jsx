@@ -3,6 +3,7 @@ import Home from "../Pages/Home";
 import TermsofService from "../Pages/TermsofService";
 import PrivacyPolicy from "../Pages/PrivacyPolicy";
 import ReturnRefundPolicy from "../Pages/ReturnRefundPolicy";
+import ShippingPolicy from "../Pages/ShippingPolicy";
 
 const IndexRoute = () => {
   return (
@@ -11,6 +12,7 @@ const IndexRoute = () => {
       <Route path="/termsOfService/*" element={<TermsofService />} />
       <Route path="/privacyPolicy/*" element={<PrivacyPolicy />} />
       <Route path="/returnRefundPolicy" element={<ReturnRefundPolicy />} />
+      <Route path="/shippingPolicy" element={<ShippingPolicy />} />
       <Route path="*" element={<Navigate replace to="" />} />
     </Routes>
   );
