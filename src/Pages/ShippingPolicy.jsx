@@ -20,15 +20,6 @@ function ShippingPolicy() {
 
       {/* Introduction */}
       <div>
-        {/* <p className="text-sm text-slate-500 mb-2">
-          Thank you for using Sobhagya, our audio call service.
-        </p>
-        <p className="text-sm text-slate-500 mb-4">
-          If, for any reason, you are not entirely satisfied with our service,
-          we invite you to review our policy on refunds and returns. This Return
-          and Refund Policy outlines the terms and conditions applicable to any
-          purchases made through our service.
-        </p> */}
 
         {/* Shipping Policy */}
         <section className="mb-6">
@@ -61,7 +52,7 @@ function ShippingPolicy() {
             <strong>Dispatch Time:</strong> Orders are processed and dispatched within 4 business days of confirmation. Customized items may take longer.
             </li>
             <li className="text-sm text-slate-500">
-            <strong>Delivery Duration:</strong> Standard delivery is typically 7–10 days from dispatch for domestic orders. International orders may take longer due to customs procedures.
+            <strong>Delivery Duration:</strong> Standard delivery is typically 7-10 days from dispatch for domestic orders. International orders may take typically 12-15 days, due to customs procedures.
             </li>
             <li className="text-sm text-slate-500">
             <strong>Note:</strong> Timelines are subject to change due to factors beyond our control.
@@ -130,7 +121,7 @@ function ShippingPolicy() {
         {/* Contact Information */}
         <section>
           <p className="text-sm text-slate-500 mb-2">
-            If you have any questions about our Returns and Refunds Policy, please contact us:
+            If you have any questions about our Shipping Policy, please contact us:
           </p>
           <ul className="list-disc list-inside space-y-2">
             <li className="text-sm text-slate-500">
