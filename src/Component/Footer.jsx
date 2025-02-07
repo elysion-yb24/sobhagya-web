@@ -50,6 +50,7 @@ NEAR NAI SADAK, Meerut, Meerut, Uttar Pradesh, 250002
                 <Link to="/termsOfService">TERMS OF SERVICES</Link>
                 <Link to="/returnRefundPolicy">RETURN AND REFUND POLICY</Link>
                 <Link to="/shippingPolicy" >SHIPPING POLICY</Link>
+                <a href='/store.sobhagya.in'>Sobhagya Store</a>
               </div>
               <div className="flex items-center gap-2">
                 <a href="https://www.facebook.com/profile.php?id=61551098336719">
